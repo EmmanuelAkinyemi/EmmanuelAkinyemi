@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@eminent_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@eminent_dev?logo=twitter&style=for-the-badge" alt="@eminent_dev" /></a> </p>
 
-- 🔭 I’m currently working on [an investment agency project](https://landing-page-34tz3z43r-emmanuelakinyemis-projects.vercel.app/)
+- 🔭 I’m currently working on [massprofit](https://landing-page-34tz3z43r-emmanuelakinyemis-projects.vercel.app/)
 
 - 🌱 I’m currently learning **Datascience and hardware(Arduino)**
 
