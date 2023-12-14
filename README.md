@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s))]("")
 <h1 align="center">Hi 👋, I'm Akinyemi Emmanuel Oluwadamilare</h1>
 <h3 align="center">I'm an adept fullstack web developer</h3>
 <img align="right" alt="coding dami" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/source.gif">
