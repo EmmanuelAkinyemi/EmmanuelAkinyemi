@@ -1,9 +1,8 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s)]("")
 <h1 align="center">Hi 👋, I'm Akinyemi Emmanuel Oluwadamilare</h1>
 <h3 align="center">Adept Full-Stack Developer | Web3 & IoT Enthusiast</h3>
 <img align="right" alt="coding dami" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/source.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelakinyemi&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelakinyemi" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s" alt="emmanuelakinyemi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eminent_dev" target="blank"><img src="https://img.shields.io/twitter/follow/eminent_dev?logo=twitter&style=for-the-badge" alt="@eminent_dev" /></a> </p>
 
