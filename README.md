@@ -2,7 +2,7 @@
 <h3 align="center">Adept Full-Stack Developer | Web3 & IoT Enthusiast</h3>
 
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s" alt="emmanuelakinyemi" /> </p>
+<p align="rigt"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s" alt="emmanuelakinyemi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eminent_dev" target="blank"><img src="https://img.shields.io/twitter/follow/eminent_dev?logo=twitter&style=for-the-badge" alt="@eminent_dev" /></a> </p>
 
