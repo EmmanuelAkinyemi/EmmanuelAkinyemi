@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akinyemi Emmanuel Oluwadamilare</h1>
 <h3 align="center">Adept Full-Stack Developer | Web3 & IoT Enthusiast</h3>
-<img align="right" alt="coding dami" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s">
+
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s" alt="emmanuelakinyemi" /> </p>
 
