@@ -1,53 +1,84 @@
-<h1 align="center">Hi 👋, I'm Akinyemi Emmanuel Oluwadamilare</h1>
-<h3 align="center">Adept Full-Stack Developer | Web3 & IoT Enthusiast</h3>
+# Hi, I'm Akinyemi Emmanuel Oluwadamilare 👋
 
+### Full-Stack Developer | Sui Move & Web3 Developer | AI Systems Engineer
 
-<p align="rigt"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtds9Cn0YUDhYDBIjfHYFR8BS1P2bJWN9xLR8ffhunhA&s" alt="emmanuelakinyemi" /> </p>
+I build practical software solutions across **full-stack web development, blockchain, and AI-powered systems**. My focus is on building reliable applications, secure smart contracts, and intelligent systems that solve real-world problems.
 
-<p align="left"> <a href="https://twitter.com/eminent_dev" target="blank"><img src="https://img.shields.io/twitter/follow/eminent_dev?logo=twitter&style=for-the-badge" alt="@eminent_dev" /></a> </p>
+- 🔭 **Currently building:** Fintech, AI-powered applications, and Web3 solutions.
+- ⛓️ **Blockchain:** Sui Move smart contracts and Web3 application development.
+- 🤖 **AI Engineering:** Retrieval-Augmented Generation (RAG), agentic systems, semantic search, and LLM integration.
+- 💻 **Full-Stack Development:** Laravel, PHP, React, Node.js, and modern web technologies.
+- 🧠 **Core Philosophy:** Strong fundamentals first. Frameworks and AI should amplify your skills, not replace your understanding.
+- 🌐 **Portfolio & Projects:** [Explore my GitHub](https://github.com/EmmanuelAkinyemi)
+- 📫 **Contact:** [emmanuelakinyemi772@gmail.com](mailto:emmanuelakinyemi772@gmail.com)
 
-- 🔭 I’m currently working on [ReliTop](https://landing-page-34tz3z43r-emmanuelakinyemis-projects.vercel.app/), a fintech app for airtime, data subscriptions, cryptocurrency, and mobile wallet services.
+---
 
-- 🌱 Currently exploring **Data Science** and **Arduino Hardware** to expand my skills in IoT.
+## 🛠️ Technical Expertise
 
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/EmmanuelAkinyemi).
-
-- 💬 Ask me about **Laravel, Tailwind, Livewire, React, Vue, Angular, and Ionic Capacitor**.
-
-- 📫 Reach me at **emmanuelakinyemi772@gmail.com**.
-
-- ⚡ Fun fact: **I play chess and enjoy classical music**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eminent_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eminent_dev" height="30" width="40" /></a>
-<a href="https://kaggle.com/damicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="damicodes" height="30" width="40" /></a>
-<a href="https://fb.com/emmanuelakinyemioluwadamilare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuelakinyemioluwadamilare" height="30" width="40" /></a>
-<a href="https://instagram.com/damicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damicodes" height="30" width="40" /></a>
-<a href="https://hashnode.com/@damicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@damicodes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@eminent_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eminent_dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emmanuelakinyemi772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emmanuelakinyemi772" height="30" width="40" /></a>
+### Backend & Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs,dotnet" alt="Backend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,angular,nextjs" alt="Frontend technologies" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelakinyemi&show_icons=true&locale=en&layout=compact" alt="emmanuelakinyemi" /></p>
+### Blockchain & Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelakinyemi&show_icons=true&locale=en" alt="emmanuelakinyemi" /></p>
+- **Sui Move:** Smart contract development and blockchain application logic.
+- **Web3:** Decentralized application development and blockchain integrations.
+
+### AI & Intelligent Systems
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI systems and tool-using workflows
+- Large Language Model (LLM) integration
+- Semantic search and vector databases
+- AI API integration and backend orchestration
+
+### Databases, Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,git,github,docker,python" alt="Databases and development tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **ReliTop** — Fintech platform for airtime and data subscriptions, cryptocurrency, and mobile wallet services. [View project](https://landing-page-34tz3z43r-emmanuelakinyemis-projects.vercel.app/)
+- **SmartKare AI** — AI-powered healthcare education assistant focused on diabetes and hypertension, using retrieval-based knowledge and LLM integration.
+- **GoalLens** — Football prediction and analysis concept combining AI with blockchain-related technologies.
+
+Explore more projects in my [GitHub repositories](https://github.com/EmmanuelAkinyemi).
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelAkinyemi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAkinyemi&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="165" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://twitter.com/eminent_dev">
+    <img src="https://img.shields.io/badge/X-@eminent__dev-000000?style=flat-square&logo=x&logoColor=white" alt="X profile" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emmanuelakinyemi772@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+*Building useful technology. Learning continuously. Shipping with purpose.*
